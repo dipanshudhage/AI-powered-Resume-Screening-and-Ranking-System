@@ -59,7 +59,7 @@ The **AI-Powered Resume Screening and Ranking System** leverages **Artificial In
 ## 🖥️ How to Run the Project
 1️⃣ Clone the repository:  
 ```bash
-git clone https://github.com/Dipanshu9131/AI-powered-Resume-Screening-and-Ranking-System.git
+git clone https://github.com/dipanshudhage/AI-powered-Resume-Screening-and-Ranking-System.git
 ```
 2️⃣ Install dependencies:  
 ```bash
